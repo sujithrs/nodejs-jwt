@@ -1,0 +1,29 @@
+{
+  "name": "nodejs-jwt",
+  "version": "0.0.1",
+  "description": "JSON Web Tokens (JWT)",
+  "main": "./lib/jwt.js",
+  "scripts": {
+    "test": "grunt"
+  },
+  "keywords": [
+    "jwt"
+  ],
+  "author": {
+    "name": "Sujith Radhakrishnan",
+    "email": "sujith@switchpt.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sujithrs/nodejs-jwt.git"
+  },
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "~1.13.0",
+    "should": "~1.3.0",
+    "grunt": "~0.4.5",
+    "matchdep": "~0.2.0",
+    "grunt-mocha-test": "~0.11.0"
+  }
+}

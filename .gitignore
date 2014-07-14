@@ -1,0 +1,17 @@
+.DS_Store
+._*
+.swp
+.bundle
+db/*.sqlite3
+log/*.log
+tmp/
+.sass-cache/
+tmp/**/*
+tmp/*
+*.log
+*.swp
+*~
+.DS_Store
+.class
+*.swo
+node_modules/
